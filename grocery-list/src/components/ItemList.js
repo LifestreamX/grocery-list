@@ -5,10 +5,6 @@ import LineItem from './LineItem';
 const ItemList = ({
   items,
   setItems,
-  //   userInput,
-  //   setUserInput,
-  //   handleInputSubmit,
-  //   handleInputChange,
   setTodoEditing,
   handleCheck,
   handleDelete,

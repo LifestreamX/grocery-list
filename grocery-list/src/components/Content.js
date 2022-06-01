@@ -5,16 +5,13 @@ const Content = ({
   items,
   setItems,
   userInput,
-  setUserInput,
-  handleInputSubmit,
-  handleInputChange,
   handleCheck,
   handleDelete,
   setTodoEditing,
   setEditingText,
   editingText,
   todoEditing,
-  editTodo
+  editTodo,
 }) => {
   return (
     <main>
