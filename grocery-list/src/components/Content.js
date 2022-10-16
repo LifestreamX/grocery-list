@@ -18,7 +18,8 @@ const Content = ({
       {/* Text for empty grocery list */}
       {items.length === 0 && (
         <p className='no-groceries-text'>No Groceries in your list </p>
-      )}
+        )}
+
 
       <ItemList
         items={items}

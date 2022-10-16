@@ -139,6 +139,7 @@ button:hover span:after {
   font-size: 32px;
   top: 80px;
   color: var(--text-color);
+  text-align: center;
 }
 
 /* Filter input */
@@ -326,5 +327,12 @@ footer {
 
   .filter-input {
     width: 100%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .add-button {
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 }
