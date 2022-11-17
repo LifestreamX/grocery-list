@@ -2,7 +2,7 @@
 
 Grocery List
 
-Access my site at https://grocerylist.tyler-allen.com/
+Access my site at https://grocerylist.tyler-allen.com
 
 ## About The App
 
