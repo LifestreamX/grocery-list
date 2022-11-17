@@ -2,7 +2,7 @@
 
 Grocery List
 
-## Demo link:
+
 
 Access my site at https://grocerylist.tyler-allen.com/
 
