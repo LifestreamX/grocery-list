@@ -1,8 +1,6 @@
-# grocery-list# Project Title
+# Project Title
 
 Grocery List
-
-
 
 Access my site at https://grocerylist.tyler-allen.com/
 
