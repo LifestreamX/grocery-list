@@ -12,7 +12,7 @@ Grocery List
 
 ## Screenshots
 
-![](screenshots/screenshot1.png)
+![](grocery-list/screenshots/screenshot1.png)
 
 ## Technologies
 
