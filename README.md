@@ -4,7 +4,7 @@ Grocery List
 
 ## Demo link:
 
-<!-- Access my site at [google.com](https://google.com) -->
+Access my site at https://grocerylist.tyler-allen.com/
 
 ## About The App
 
