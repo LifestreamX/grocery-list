@@ -334,5 +334,33 @@ footer {
   .add-button {
     margin-top: 10px;
     margin-bottom: 10px;
+    width: 90%;
+  }
+
+  header {
+    padding: 0.5rem;
+  }
+
+  header h1 {
+    font-size: 18px;
+  }
+
+  .add-input {
+    padding: 0.2rem;
+    position: relative;
+    bottom: 0.5rem;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .add-button {
+    position: relative;
+    bottom: 1rem;
+  }
+
+  .search {
+    position: relative;
+    right: 10px;
+    top: 15px;
   }
 }

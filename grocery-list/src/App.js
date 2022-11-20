@@ -122,6 +122,7 @@ function App() {
         editingText={editingText}
         todoEditing={todoEditing}
         editTodo={editTodo}
+        filteredGroceries={filteredGroceries}
       />
       <Footer items={items} />
     </div>

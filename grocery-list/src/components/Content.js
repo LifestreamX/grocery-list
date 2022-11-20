@@ -12,14 +12,16 @@ const Content = ({
   editingText,
   todoEditing,
   editTodo,
+  filteredGroceries,
 }) => {
+  console.log(filteredGroceries.length);
   return (
     <main>
       {/* Text for empty grocery list */}
-      {items.length === 0 && (
+      {items.length === 0 && filteredGroceries.length < 1 && (
         <p className='no-groceries-text'>No Groceries in your list </p>
-        )}
-
+      )}
+     
 
       <ItemList
         items={items}
